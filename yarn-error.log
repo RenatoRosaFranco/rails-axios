@@ -1,0 +1,28 @@
+Arguments: 
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add global faker
+
+PATH: 
+  /home/renato-franco/.rvm/gems/ruby-2.5.1/bin:/home/renato-franco/.rvm/gems/ruby-2.5.1@global/bin:/home/renato-franco/.rvm/rubies/ruby-2.5.1/bin:/home/renato-franco/.rvm/bin:/home/renato-franco/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.9.2
+
+Node version: 
+  9.2.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at errnoException (dns.js:55:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
